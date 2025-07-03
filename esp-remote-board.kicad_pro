@@ -502,9 +502,9 @@
       "plot": "gbr/",
       "pos_files": "pos/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "esp-remote-board.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "../../../../../Downloads/esp-remote-board.wrl"
     },
     "page_layout_descr_file": ""
   },
