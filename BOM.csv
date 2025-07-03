@@ -1,0 +1,19 @@
+Comment,Designator,Footprint,LCSC Part Number,Datasheet
+TSOP348xx,U2,OptoDevice:Vishay_MOLD-3Pin,C44620,https://www.vishay.com/docs/82489/tsop322.pdf
+SW_PTS810,SW4,Button_Switch_SMD:SW_SPST_PTS810,C221895,~
+SW_PTS810,SW3,Button_Switch_SMD:SW_SPST_PTS810,C221895,~
+470,R21,Resistor_SMD:R_0402_1005Metric,C23179,~
+470,R20,Resistor_SMD:R_0402_1005Metric,C23179,~
+470,R19,Resistor_SMD:R_0402_1005Metric,C23179,~
+470,R18,Resistor_SMD:R_0402_1005Metric,C23179,~
+470,R17,Resistor_SMD:R_0402_1005Metric,C23179,~
+470,R16,Resistor_SMD:R_0402_1005Metric,C23179,~
+470,R15,Resistor_SMD:R_0402_1005Metric,C23179,~
+SS8050,Q1,Package_TO_SOT_SMD:SOT-23,C2150,http://www.secosgmbh.com/datasheet/products/SSMPTransistor/SOT-23/SS8050.pdf
+Conn_01x15_2.54_Socket,J2,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,C7499333,~
+Conn_01x15_2.54_Socket,J1,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,C7499333,~
+LED_3.0mm_IR,D7,LED_THT:LED_D3.0mm,C7470790,~
+LED_3.0mm_IR,D6,LED_THT:LED_D3.0mm,C7470790,~
+LED_3.0mm_IR,D5,LED_THT:LED_D3.0mm,C7470790,~
+LED_3.0mm_IR,D4,LED_THT:LED_D3.0mm,C7470790,~
+LED_0603_RED,D3,LED_SMD:LED_0201_0603Metric,C2286,~
