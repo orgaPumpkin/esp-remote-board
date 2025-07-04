@@ -4,7 +4,7 @@ This is a custom board for my [esp-remote](https://github.com/orgaPumpkin/esp-re
 It is a Hat for the esp8266, which contains an IR receiver, an IR emitter, and two buttons to send set messages.
 
 I made this board in order to make this project more accessible, as putting the esp8266 into the Hat is way easier than connecting the components to a breadboard.
-Additionally, a Hat is way more compact and clean than a breadboard and gives the project the filling of a final product.
+Additionally, a Hat is way more compact and clean than a breadboard and gives the project the feeling of a final product.
 
 ![3D render](pictures/3d.png)
 ![pcb](pictures/hat_pcb.png)
@@ -18,3 +18,4 @@ Additionally, a Hat is way more compact and clean than a breadboard and gives th
 | 1x15 2.54 Socket      | J1, J2                            | C7499333         | https://jlcpcb.com/partdetail/Megastar-ZX_PM2_54_115PY/C7499333 |
 | 3.0mm THT IR LED      | D4, D5, D6, D7                    | C7470790         | https://jlcpcb.com/partdetail/TONYU-DY_IR204TE12/C7470790       |
 | 0603 red LED          | D3                                | C2286            | https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0603R/C2286     |
+| ESP8266 NodeMcu v2    |                                   | C503597          | https://jlcpcb.com/partdetail/AiThinker-NODEMCU/C503597         |
