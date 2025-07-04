@@ -8,6 +8,7 @@ Additionally, a Hat is way more compact and clean than a breadboard and gives th
 
 ![3D render](pictures/3d.png)
 ![pcb](pictures/hat_pcb.png)
+![schematic](pictures/hat_schematic.png)
 
 | Component             | Designator                        | LCSC Part Number | Link                                                            |
 |-----------------------|-----------------------------------|------------------|-----------------------------------------------------------------|
